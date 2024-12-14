@@ -26,7 +26,7 @@ Hit subscribe and the bell icon so you wonâ€™t miss a spellbinding episode. Letâ
 
 ## Support
 
-For support, email jadavmohit86@gmail.com or join our Slack channel.
+For support, email jadavmohit86@gmail.com or join our [FlutterInsider](https://www.youtube.com/@FlutterInsider) YouTube channel.
 
 
 ## Tech Stack
